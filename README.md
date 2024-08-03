@@ -11,4 +11,4 @@ Python
 ### Libraries and  Technique: 
 Prophet model, ARIMA/SARIMA model, Simple/Double/Triple Exponential Smoothing model, ARIMA/SARIMA model
 
-# copyright To Raghav Vijayvergia 
+# Copyright To Raghav Vijayvergia 
